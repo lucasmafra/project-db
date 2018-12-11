@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  data_inicio: 2018-12-10 20:56:37
+  data_termino: 2018-12-10 20:56:37
+  descricao: MyString
+  local: one
+  titulo: MyString
+  total_vagas: 1
+
+two:
+  data_inicio: 2018-12-10 20:56:37
+  data_termino: 2018-12-10 20:56:37
+  descricao: MyString
+  local: two
+  titulo: MyString
+  total_vagas: 1
